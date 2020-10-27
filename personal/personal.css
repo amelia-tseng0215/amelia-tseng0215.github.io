@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Noto+Serif+TC:wght@300&family=Oswald&family=Playfair+Display&family=Raleway:wght@300&display=swap');
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0; 
+}
+
+body{
+	background-color: #faf8ed ;
+}
+
+article{
+	background-color: #faf8ed
+}
+
+h1{
+	font-family:oswald;
+	color: #ff8f8f; 
+}
+h2{
+	font-family:noto sans TC;
+	color: #ff8f8f;
+}
+
+section{
+	font-family: sans-serif;
+	color: #5e5e54;
+}
+
+section{
+	font-family:noto serif TC;
+	color: #5e5e54;
+}
