@@ -1,0 +1,15 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0; 
+}
+
+p{
+	color:yellow;
+	/*padding:5px; refering to 上下左右個縮5*/
+	/*padding-bottom :5px;*/
+	/*padding:3px 10px 20px  0 ; 順時鐘上右下左*/
+	/*padding: 10px 0; (上下) (左右) */
+	padding: 5px 0 10px ; /*上5 (右0左 0)下10 */
+	margin: 5px 0; 
+}

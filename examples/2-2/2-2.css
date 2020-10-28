@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Playfair+Display&display=swap');
+
+h1 { font-family:oswald;
+
+}
+    
+p {
+	font-family: Playfair Display, serif;
+}
