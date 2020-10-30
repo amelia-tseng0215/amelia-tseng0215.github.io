@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400&family=Hind:wght@300&family=Karla&family=Noto+Serif+TC:wght@300;500&family=Oswald&display=swap');
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0; 
+}
+
+body{
+	background-color: #faf8ed ;
+}
+
+article{
+	background-color: #faf8ed
+}
+
+h1{
+	font-family:oswald;
+	color: #ff8f8f; 
+	margin : 5px 0px;
+	padding: 5px 200px;
+}
+
+h2{
+	font-family:Noto serif TC;
+	color: #ff8f8f;
+	margin : 5px 0px;
+	padding: 5px 200px;
+}
+
+section{
+	font-family: Hind; 
+	color: #5e5e54;
+	margin : 5px 0px;
+	padding: 5px 200px;
+}
+
+section{
+	font-family:noto serif TC;
+	color: #5e5e54  ;
+	margin : 5px 0px;
+	padding: 5px 200px;
+
+}
