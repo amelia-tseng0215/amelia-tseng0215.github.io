@@ -1,43 +1,81 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400&family=Hind:wght@300&family=Karla&family=Noto+Serif+TC:wght@300;500&family=Oswald&display=swap');
-*{
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400&family=Didact+Gothic&family=Hind+Siliguri&family=Hind:wght@300&family=Karla&family=Noto+Serif+TC:wght@300;500&family=Oswald&family=Quicksand&family=Raleway&family=Tenor+Sans&family=Trispace&display=swap');
 	box-sizing:border-box;
 	margin:0;
 	padding:0; 
 }
 
 body{
-	background-color: #faf8ed ;
+	background-color: #fefdfa  ;
 }
 
+
+header{
+	background-color:#adb0a7 ;
+	color:#faf8ed;
+	text-align:center;
+	font-family:hind;
+	padding:30px 0px 0px;
+	font-size: 30px;
+}
+
+.boxBorder{
+	 border: 1.85px solid #faf8ed;
+     padding: 0px 30px;
+     
+}
+
+.topnav a{
+	color:#808080 ;
+	text-align: left;
+	padding: 50px 0px 50px 50px;
+	font-family:Hind;
+	font-size: 15px;
+
+}
+
+
+
+
+
+
+
 article{
-	background-color: #faf8ed
+	background-color: #fefdfa; 
+	padding: 60px 50px;
+
 }
 
 h1{
-	font-family:oswald;
-	color: #ff8f8f; 
+	font-family:tenor sans;
+	color: #f79999; 
 	margin : 5px 0px;
-	padding: 5px 200px;
+	padding: 3px 200px;
+	
 }
+
 
 h2{
 	font-family:Noto serif TC;
-	color: #ff8f8f;
+	color: #f79999;
 	margin : 5px 0px;
-	padding: 5px 200px;
+	padding: 3px 200px;
 }
 
-section{
-	font-family: Hind; 
+section.a{
+	font-family: hind; 
 	color: #5e5e54;
 	margin : 5px 0px;
-	padding: 5px 200px;
+	padding: 0px 200px;
+	text-align: justify;
+	
 }
 
-section{
-	font-family:noto serif TC;
+section.b{
+	font-family: noto serif TC;
+	font-style:thin;
 	color: #5e5e54  ;
 	margin : 5px 0px;
-	padding: 5px 200px;
+	padding: 0px 200px;
+	text-align: justify; 
 
 }
