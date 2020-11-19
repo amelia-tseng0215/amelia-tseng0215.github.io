@@ -39,7 +39,7 @@ header{
      
 }
 
-nav > a{
+nav > a {
 	color:#808080 ;
 	margin:50px 35px 0px 30px;
 	font-family:Hind;
@@ -48,6 +48,14 @@ nav > a{
 	position:absolute:top:25px left 50px;
 
 }
+
+
+nav > a:hover{
+	color:#faf8ed ;
+	border-bottom: 2px solid #faf8ed;
+}
+
+
 
 img{
 	width:470px;
@@ -72,7 +80,7 @@ div.overlay-block{
 img.pic2{
 	width:480px;
 	height:370px;	
-	position: relative; top: 880px; left: 290px;
+	position: relative; top: 880px; left: -30px;
 	float: right;  
 	z-index:100;
 }
