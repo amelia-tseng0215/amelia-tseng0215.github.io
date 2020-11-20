@@ -49,6 +49,22 @@ nav > a{
 
 }
 
+nav > a:hover{
+	color:#faf8ed ;
+	border-bottom: 2px solid #faf8ed;
+}
+
+
+
+footer{
+	width:100%;
+	height: 8%;
+    background-color:#808080 ;
+    color:white;
+	font-family:hind;
+    margin: 10px 0px 0px 0px;
+	position:absolute; top:1550px;
+}
 
 
 
@@ -57,4 +73,34 @@ article{
     width: 100%;
 	height: 100%;
 
+}
+
+
+
+h1{
+	font-family:noto sans;
+	color:  #3e3e3e; 
+	font-size: 50px;
+	text-align: center;
+	position:fixed: top:25px left:40px;
+}
+
+
+div.gmail{
+	font-family:noto sans;
+	color: #3e3e3e; 
+	background color: pink;
+	font-size:30px;
+	word-spacing:20px;
+
+}
+
+div.facebook{
+	font-family:noto sans;
+	color: #3e3e3e; 
+	margin:30px 30px;
+	background color: pink;
+	font-size:20px;
+	word-spacing:20px;
+    position: relative: top: 50px left:50px;
 }
