@@ -11,7 +11,13 @@ window.onload  = function (){
     //changing font color in the website 
     idEm.style.color='red'; 
 
+    idEm.style.backgroundColor= 'black';
+    //font-size= fontSize, text-align = textAlign 
+    
+
+    idEM.style.maarginleft= '5px';
 
 };
+
 
 
