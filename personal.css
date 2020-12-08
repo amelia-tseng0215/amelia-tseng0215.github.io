@@ -60,7 +60,8 @@ nav > a:hover{
 
 img{
 	width:470px;
-	height:370px;	
+	height:370px;
+	
 	position: relative; top:250px; left: 17px;
 	float: left;
 	z-index:100;
@@ -110,7 +111,7 @@ img.bridge{
 	position: absolute; top: 785px ; left:53px;
 	float: left;
 	max-width:100%;
-	
+
 	height:auto;
 
 }
