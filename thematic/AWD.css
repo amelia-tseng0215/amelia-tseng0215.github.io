@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Cormorant+Garamond&family=Crimson+Text&family=Open+Sans&family=Playfair+Display&family=Playfair+Display+SC&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Cormorant+Garamond&family=Crimson+Text&family=Open+Sans&family=Playfair+Display&family=Playfair+Display+SC&display=swap');
 
 *{
 	box-sizing:border-box;
@@ -29,7 +29,7 @@ footer{
     color:white;
 	font-family:hind;
     margin: 10px 0px 0px 0px;
-	position:absolute; top:3500px;
+	position:absolute; top:4500px;
 }
 
 
@@ -42,7 +42,6 @@ header{
 	font-family:hind;
 	padding:0;
 	margin:0;
-	font-size: 30px;
 	position:absolute; top:0px;
 }
 
@@ -65,7 +64,7 @@ nav {
 nav>a{
 	color:black;
 	font-family:serif;
-	font-size: 13px;
+	font-size: 2.4vh;
 	padding:60px 25px 60px 25px;
 	text-decoration:none;
 }
@@ -98,7 +97,7 @@ h1{
 	text-align:center;
 	font-family:hind;
 	padding:20px 0px 0px 0px;
-	font-size: 30px;
+	font-size: 5vh;
 	
 	
 }
@@ -111,7 +110,8 @@ h2{
 	text-align:center;
 	font-family:sans-serif;
 	padding:50px 0px 0px 0px;
-	font-size: 10px;
+	font-style:thin;
+	font-size: 1.6vh;
 	word-spacing:20px;
 }
 
@@ -130,7 +130,7 @@ h3{
 	text-align:center;
 	font-family:playfair display;
 	padding:50px 0px 0px 0px;
-	font-size: 18px;
+	font-size: 6vh;
 	position:relative;top:30px;
 }
 
@@ -138,8 +138,8 @@ p{
 	color:#555;
 	text-align:center;
 	font-family:playfair displlay;
-	padding:80px 300px 80px 300px;
-	font-size: 17px;
+	padding:80px 250px 80px 250px;
+	font-size: 3.2vh;
 	position:relative;top:140px; 
 	text-align:left;
 }
@@ -147,6 +147,41 @@ p{
 img{
 	max-width:100%;
 	height:auto;
-	width:53%;
-	position:relative; top:100px ;left:300px;
+	width:80%;
+	position:relative; top:100px ;left:150px;
+	float:center;
+}
+
+
+p>img.awd1{
+	
+	width:30%;
+	float:right;
+    margin:10px 20px ;
+}
+
+p>img.petra{
+	
+	width:30%;
+	float:left;
+    margin:10px 20px;
+
+}
+	
+img.mem{
+	max-width:100%;
+	height:auto;
+	width:60%;
+	float:center;
+	margin:20px 120px;
+}
+
+
+
+img.mrsb{
+	
+	width:45%;
+	float:right;
+    margin:10px 20px;
+
 }

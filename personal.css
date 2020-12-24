@@ -54,6 +54,7 @@ nav > a {
 nav > a:hover{
 	color:#faf8ed ;
 	border-bottom: 2px solid #faf8ed;
+	cursor:pointer;
 }
 
 

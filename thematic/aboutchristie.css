@@ -65,7 +65,7 @@ nav {
 nav>a{
 	color:black;
 	font-family:serif;
-	font-size: 13px;
+	font-size: 2.4vh;
 	padding:60px 25px 60px 25px;
 	text-decoration:none;
 }
@@ -98,7 +98,7 @@ h1{
 	text-align:center;
 	font-family:hind;
 	padding:20px 0px 0px 0px;
-	font-size: 30px;
+	font-size: 5vh;
 	
 	
 }
@@ -111,7 +111,8 @@ h2{
 	text-align:center;
 	font-family:sans-serif;
 	padding:50px 0px 0px 0px;
-	font-size: 10px;
+	font-style:thin;
+	font-size: 1.6vh;
 	word-spacing:20px;
 }
 
