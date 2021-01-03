@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+
+html{
+	height:100%;
+	width:100%;
+}
+
+body{
+	height:100%;
+	width:100%;
+	overflow-x:hidden;
+	background-color:#ca3d3f;
+}
+
+
+article{
+	display:flex;
+	height:100%;
+	flex-direction: column; /*display sttle : verticle; */
+	flex-wrap:wrap; /*section will displa on the same line */
+	justify-content:space-around; /*左右排版寬度*/
+	align-content:space-around; /*上下間隔排版寬度*/
+}
+
+article> section{
+	padding:5px;
+	height:8%;
+	width:30%;
+	background-color:#386641;
+	color:white;
+	font-size:2.4vh;
+}
+
+@media only screen and (min-width:1200px){
+	article{
+		flex-direction:row;
+	}
+}

@@ -31,18 +31,16 @@ div{
 	position:absolute top:0px ;
 
 }
-
 header{
 	width:100%;
-	height:18%;
+	height:24%;
 	background-color:#adb0a7 ;
 	color:#faf8ed;
 	text-align:center;
 	font-family:hind;
 	padding:35px 0px 0px;
-	font-size: 30px;
-	float:top;
-	position:relative;top:0px;
+	font-size: 4.8vh;
+	position:absolute; top:0px;
 }
 
 .boxBorder{
@@ -55,12 +53,14 @@ nav > a {
 	color:#808080 ;
 	margin:50px 35px 0px 30px;
 	font-family:Hind;
-	font-size: 15px;
+	font-size: 2.4vh;
 	text-align:center;
 	position:absolute:top:25px left 50px;
 	text-decoration:none;
 
 }
+
+
 
 
 nav > a:hover{
@@ -70,20 +70,13 @@ nav > a:hover{
 
 
 
-article{
-	background-color: #fefdfa; 
-    width: 100%;
-	height: 100%;
-    padding:50px 80px 50px 80px;
-
-}
 
 
 h1{
 
 	font-family:noto sans;
 	color:  #3e3e3e; 
-	font-size:40px;
+	font-size:8vh;
 	word-spacing:10px;
 	margin : 5px 0px; 
 	position: absolute ; top:265px  ;left: 420px;
@@ -97,7 +90,7 @@ h1{
 h2{
 	font-family:montserrat;
 	color:orange ;
-	font-size:15px;
+	font-size:3.6vh;
     position: absolute ; top:325px;left: 570px;
     color:#cc700e;
     font-style:thin;
@@ -114,6 +107,78 @@ img{
     position:absolute; top:400px ;left:268px;
 }
 
+article{
+	background-color: #fefdfa; 
+    padding:0px 150px ;
+    position:absolute; top:1000px;
+    
+}
+
+
+
+section>p {
+    color: #5e5e54;
+	font-family:hind;
+	font-size:3vh;
+	text-align: justify;
+	margin: 0px 130px;
+
+}
+
+.s1>p{
+	margin-top:10vh;
+}
+
+	.img1{
+		width:35%;
+		position:absolute;top:200px; left: 14%;
+	}
+
+	.img2{
+		width:35%;
+		position:absolute; top:200px; left:52%;
+	}
+
+
+.s2>p{
+	margin-top:70vh;
+}
+
+.s2>img{
+	width:20%;
+	float:right;
+	display:inline-block;
+}
+
+
+.s3>p{
+	margin-top:100vh;
+}
+
+
+.s3>div>img{
+	width:50%;
+	display:block;
+	position:absolute; top:1000px; 
+	margin-left:5vw;
+	margin-right:5vw;
+	
+}
+
+
+.sun{
+	width:60%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+    margin-top:1500px;
+}
+
+.video{ 
+    width:40%;
+	height:30%;
+	position:fixed:top:1300px;
+}
 
 footer{
 	width:100%;
@@ -122,5 +187,9 @@ footer{
     color:white;
 	font-family:hind;
     margin: 10px 0px 0px 0px;
-	position:absolute; top:1480px;
+	position:absolute; top:8000px;
 }
+
+
+
+
