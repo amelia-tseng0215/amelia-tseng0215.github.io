@@ -168,6 +168,9 @@ section>p {
 }
 
 
+
+
+
 img.sun{
 	width:60%;
 	display:block;
@@ -177,6 +180,9 @@ img.sun{
 }
 
 
+.s4>p{
+	margin-top:100vh;
+}
 
 
 
@@ -188,7 +194,7 @@ footer{
 	font-family:hind;
 	padding:2px 50px 2px 50px;
     margin: 50px 0;
-	position:absolute; top:1000vh;
+	position:absolute; top:600vh;
 }
 
 
