@@ -120,18 +120,21 @@ article{
 
 h3{
 	color:black;
-	margin-top:28vh;
-	margin-right:10vw;
+	margin-top:25vh;
+	margin-right:13vw;
 	font-family:sans-serif;
-	font-size: 8vh;
-	text-align: left;
+	font-size: 7vh;
+	text-align:left;
+	word-spacing:5px;
 	float:right;
+	
 
 }
 
 .deco1, .deco2{
 	font-size:20vh;
 	font-style: bold;
+	color:#cc700e;
 	font-family:sans-serif;
 	color:#990000;
 }
@@ -148,9 +151,9 @@ h3{
 .s1>p{
 	color:#990000;
 	text-align:center;
-	font-family:playfair displlay;
+	font-family:serif;
 	padding: 10px 200px;
-	font-size: 4vh;	
+	font-size: 3vh;	
 	float:center;
 
 }
@@ -166,37 +169,69 @@ h3{
 
 .s2>p{
 	color:#990000;
-	text-align:center;
-	font-family:playfair displlay;
-	font-size: 4vh;
-	padding: 10px 100px;
-	margin:60px;
-	float:center;
-
-}
-
-
-.s3>p{
-	color:#555;
 	text-align:left;
-	font-family:playfair displlay;
-	font-size: 3.6vh;
-	padding: 10px 200px ;
-	margin-right:15vw;
+	font-family:serif;
+	padding: 10px 200px;
+	margin:5vh 0 5vh 0;
+	font-size: 3vh;	
+	float:center;
 }
 
 
-.s3>img{
-	display:inline-block;
+h4{
+    color:black;
+	font-family:sans-serif;
+	font-size: 5vh;	
+	word-spacing:10px;
+	margin:5vh 40vw 5vh 40vw;
+
+    
+}
+
+
+img.s2-1{
+	height:auto;
+    width:40%;
+    float:left;
+    margin-right:20px;
+}
+
+
+
+img.s2-2{
     height:auto;
-	width:15%;
-	margin-right:12vw;
-	margin-top:2vh;
-	filter:grayscale(100%);
-	float:right;
+    width:30%;
+    float:right;
+    margin-left:20px;
+    margin-bottom:10px;
 }
 
 
+img.s2-3{
+    height:auto;
+    width:37%;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+   
+}
+
+
+
+
+
+
+footer{
+	width:100%;
+	height: 7vh;
+    background-color:#555 ;
+    color:white;
+	font-family:hind;
+	padding: 2vh 2vh;
+	margin-top:20vh;
+	position:relative; bottom:0;
+    
+}
 
 
 
