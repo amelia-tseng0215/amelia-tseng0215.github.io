@@ -80,6 +80,7 @@ h1{
 
 section.a{
 	font-family: hind; 
+	font-size:2.6vh;
 	color: #5e5e54;
 	margin : 5px 0px;
 	padding: 0px 50px;
@@ -128,6 +129,7 @@ h2{
 section.b{
 
     font-family: serif; 
+    font-size:2.8vh;
 	color: #5e5e54;
 	margin-right:50vw;
 	padding: 0px 50px;
@@ -140,7 +142,7 @@ section.b{
 img.pic2{
 	width:480px;
 	height:370px;	
-	position: relative; top:85vh; 
+	position: absolute; top:150vh; right:0; 
 	float: right;  
 	z-index:100;
 }
@@ -156,7 +158,7 @@ div.overlay-color{
 
 
 img.bridge{
-	position: absolute; top: 785px ; left:53px;
+	position: absolute; top: 130vh ; left:0;
 	float: left;
 	max-width:100%;
 	height:auto;
@@ -174,7 +176,7 @@ footer{
 	font-family:hind;
 	padding:2px 50px 2px 50px;
     margin: 50px 0;
-	position:absolute; top:250vh;
+	position:absolute; top:230vh;
 }
 
 
