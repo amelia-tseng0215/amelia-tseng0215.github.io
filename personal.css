@@ -61,66 +61,6 @@ nav > a:hover{
 
 
 
-img{
-	width:470px;
-	height:370px;
-	
-	position: relative; top:250px; left: 17px;
-	float: left;
-	z-index:100;
-}
-
-
-div.overlay-block{
-	background-color: #91c6bd;
-	width:560px;
-	height:310px;
-	position:absolute; top:380px; left:0;
-	z-index:50;
-
-}
-
-
-
-img.pic2{
-	width:480px;
-	height:370px;	
-	position: relative; top: 880px; left: -30px;
-	float: right;  
-	z-index:100;
-}
-
-div.overlay-color{
-	background-color: #6f9db5;
-	width:580px;
-	height:335px;
-	position:absolute;top:1000px; right: 0px;
-	z-index:50;
-
-
-}
-
-
-
-img.SOH{
-	position: absolute; top: 550px ; left:700px;
-	float: right;
-	max-width: 100%;
-	height:auto;
-}
-
-
-img.bridge{
-	position: absolute; top: 785px ; left:53px;
-	float: left;
-	max-width:100%;
-
-	height:auto;
-
-}
-
-
-
 article{
 	background-color: #fefdfa; 
     width: 100%;
@@ -134,8 +74,43 @@ h1{
 	font-size:8vh;
 	word-spacing:10px;
 	margin : 5px 0px; 
-	position: absolute ; top:300px; left: 375px;
+	position: absolute ; top:47vh; left: 25vw;
 	z-index:150;
+}
+
+section.a{
+	font-family: hind; 
+	color: #5e5e54;
+	margin : 5px 0px;
+	padding: 0px 50px;
+	text-align: justify;
+	position: absolute  ; top:40vh; left: 50vw;
+	
+}
+
+img{
+	width:470px;
+	height:370px;
+	position: relative; top:40vh; 
+	float: left;
+	z-index:100;
+}
+
+
+div.overlay-block{
+	background-color: #91c6bd;
+	width:560px;
+	height:310px;
+	position:absolute; top:60vh; left:0;
+	z-index:50;
+
+}
+
+img.SOH{
+	position: absolute; top: 90vh ; left:60vw;
+	float: right;
+	max-width: 100%;
+	height:auto;
 }
 
 
@@ -145,29 +120,47 @@ h2{
 	font-size:7vh;
 	word-spacing:20px;
 	margin : 5px 0px; 
-	position: absolute ; top:905px; left: 700px;
+	position: absolute ; top:147vh; left: 56vw;
 	z-index:150;
 	
 }
 
-section.a{
-	font-family: hind; 
+section.b{
+
+    font-family: serif; 
 	color: #5e5e54;
-	margin : 5px 0px;
-	padding: 0px 75px;
+	margin-right:50vw;
+	padding: 0px 50px;
 	text-align: justify;
-	position: absolute  ; top:280px; left: 600px;
+	position: absolute; top:160vh ;left:0;
 	
 }
 
-section.b{
-	font-family: noto serif TC;
-	font-style:thin;
-	color: #5e5e54  ;
-	margin : 5px 2px;
-	padding: 0px 720px;
-	text-align: justify; 
-    position: absolute ; top: 920px; left: -650px;
+
+img.pic2{
+	width:480px;
+	height:370px;	
+	position: relative; top:85vh; 
+	float: right;  
+	z-index:100;
+}
+
+div.overlay-color{
+	background-color: #6f9db5;
+	width:580px;
+	height:335px;
+	position:absolute;top:165vh; right: 0px;
+	z-index:50;
+
+}
+
+
+img.bridge{
+	position: absolute; top: 785px ; left:53px;
+	float: left;
+	max-width:100%;
+	height:auto;
+
 }
 
 
@@ -179,8 +172,12 @@ footer{
     background-color:#808080 ;
     color:white;
 	font-family:hind;
-    margin: 10px 0px 0px 0px;
-	position:absolute; top:1480px;
+	padding:2px 50px 2px 50px;
+    margin: 50px 0;
+	position:absolute; top:230vh;
 }
+
+
+
 
 

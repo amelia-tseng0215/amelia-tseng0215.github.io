@@ -79,7 +79,7 @@ h1{
 	font-size:8vh;
 	word-spacing:10px;
 	margin : 5px 0px; 
-	position: absolute ; top:265px  ;left: 420px;
+	position: absolute ; top: 40vh  ;left: 30vw;
 	float:center;
 	text-align:center;
 
@@ -90,8 +90,8 @@ h1{
 h2{
 	font-family:montserrat;
 	color:orange ;
-	font-size:3.6vh;
-    position: absolute ; top:325px;left: 570px;
+	font-size:3.4vh;
+    position: absolute ; top:53vh;left: 43vw;
     color:#cc700e;
     font-style:thin;
     text-align:center;
@@ -104,10 +104,12 @@ img{
 	width:60%;
 	display:block;
     float:center;
-    position:absolute; top:400px ;left:268px;
+    position:absolute; top: 70vh ;left: 20vw;
 }
 
 article{
+	height:100%;
+	width:100%;
 	background-color: #fefdfa; 
     padding:0px 150px ;
     position:absolute; top:1000px;
@@ -129,14 +131,14 @@ section>p {
 	margin-top:10vh;
 }
 
-	.img1{
+.img1{
 		width:35%;
-		position:absolute;top:200px; left: 14%;
+		position:absolute;top:30vh; left:13vw;
 	}
 
-	.img2{
+.img2{
 		width:35%;
-		position:absolute; top:200px; left:52%;
+		position:absolute; top:30vh; left:51vw;
 	}
 
 
@@ -159,26 +161,24 @@ section>p {
 .s3>div>img{
 	width:50%;
 	display:block;
-	position:absolute; top:1000px; 
+	position:absolute; top:160vh; 
 	margin-left:5vw;
 	margin-right:5vw;
 	
 }
 
 
-.sun{
+img.sun{
 	width:60%;
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-    margin-top:1500px;
+    margin-top:240vh;
 }
 
-.video{ 
-    width:40%;
-	height:30%;
-	position:fixed:top:1300px;
-}
+
+
+
 
 footer{
 	width:100%;
@@ -186,8 +186,9 @@ footer{
     background-color:#808080 ;
     color:white;
 	font-family:hind;
-    margin: 10px 0px 0px 0px;
-	position:absolute; top:8000px;
+	padding:2px 50px 2px 50px;
+    margin: 50px 0;
+	position:absolute; top:1000vh;
 }
 
 
