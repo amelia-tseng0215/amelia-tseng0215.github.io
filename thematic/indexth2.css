@@ -27,9 +27,9 @@ body{
 
 h1 {
     margin:0vh 0 2vh 0;
-	color:#555;
+	color:black;
 	text-align:center;
-	font-family:sans-serif;
+	font-family:serif;
 	font-size: 2.4vh;
 	word-spacing:2.4vw;
 	position:fixed:top:0;
@@ -57,51 +57,55 @@ h1 {
 
 
 
-
+.navd{
+	 width:40%;
+	 height:100%;
+	 background-color:#a86852;
+	 position:fixed;left:30vw;
+}
 
 nav >a {
         cursor:pointer;
-        color:#a86852;
-	    background-color:white;
 }
 	 
+a:hover{
+	   
+	   background-color:#fce1bb;
+	   color:#555;
+
+}
+
+div>a{
+	 color:white;
+	 font-family:serif;
+	 font-size: 4vh;
+	 text-decoration:none;
+	 padding:5px 10px;
+	 text-align:center;
+}
+
+
 .a1 {
-	width:32%;
-	color:white;
-	font-family:serif;
-	font-size: 3vh;
-	text-decoration:none;
-	color:white;
-	background-color:#a86852;
-	padding:5px 10px;
-    position: relative:top:5vh;
+	
+    position: fixed;top:20vh ;left:40vw;
 }
 
 
-.a2 {
-	
-	font-family:serif;
-	font-size: 3vh;
-	text-decoration:none;
-	
-	color:white;
-	background-color:#a86852;
-	padding:5px 10px;
+
+.a2{
+    position: fixed;top:40vh; left:40vw;
+
 }
 
+.a3{
+	position: fixed;top:60vh ;left:40vw;
 
-.a3 {
-	
-	font-family:serif;
-	font-size: 3vh;
-	text-decoration:none;
-	float:right;
-	position:relative; top:-330px; 
-	color:white;
-	background-color:#a86852;
-	padding:5px 10px;
 }
 
+.a4{
+	position: fixed;top:80vh ;left:40vw;
+
+}
 
 
 
