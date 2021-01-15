@@ -29,7 +29,7 @@ footer{
     color:white;
 	font-family:hind;
     margin: 10px 0px 0px 0px;
-	position:absolute; top:4500px;
+	position:absolute; top:4200px;
 }
 
 
@@ -48,14 +48,10 @@ header{
 
 
 
-
-
-
-
 nav {
 
-	margin:85px 20px 5px 20px;
-	padding:20px 20px;
+	margin:14vh 0 1.2vh 0;
+	padding:3.4vh 3.4vh;
 	text-align:center;
    
 
@@ -64,8 +60,8 @@ nav {
 nav>a{
 	color:black;
 	font-family:serif;
-	font-size: 2.4vh;
-	padding:60px 25px 60px 25px;
+	font-size: 2.2vh;
+	padding:2vh 2vh;
 	text-decoration:none;
 }
 
@@ -136,16 +132,16 @@ h3{
 
 p{
 	color:#555;
-	text-align:center;
+	text-align:left;
 	font-family:playfair displlay;
-	padding:80px 250px 0 250px;
+	padding:0 250px 0 250px;
+	margin:50px 0 50px 0;
 	font-size: 3.2vh;
 	position:relative;top:140px; 
-	text-align:left;
+	
 }
 
 .img1{
-	max-width:100%;
 	height:auto;
 	width:80%;
 	position:relative; top:100px ;left:150px;
@@ -169,19 +165,15 @@ p>img.jordan{
 }
 	
 img.mem{
-	max-width:100%;
-	height:auto;
 	width:60%;
-	float:center;
-	margin-top:100px;
-}
+	margin:45vh 20vw 0 20vw;
 
-
+	}
 
 img.mrsb{
 	
 	width:45%;
 	float:right;
-    margin:10px 20px;
+    margin:0 20px;
 
 }
