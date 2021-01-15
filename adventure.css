@@ -176,12 +176,14 @@ img.sun{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-    margin-top:240vh;
+    position:absolute;top:310vh;
 }
 
 
 .s4>p{
-	margin-top:100vh;
+	position:absolute;top:380vh; left:5vw;
+	padding:50px 50px ;
+	text-align: justify;
 }
 
 
@@ -194,7 +196,7 @@ footer{
 	font-family:hind;
 	padding:2px 50px 2px 50px;
     margin: 50px 0;
-	position:absolute; top:600vh;
+	position:absolute; top:580vh;
 }
 
 
