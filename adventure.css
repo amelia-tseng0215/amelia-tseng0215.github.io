@@ -124,6 +124,7 @@ section>p {
 	font-size:3vh;
 	text-align: justify;
 	margin: 0px 130px;
+	margin-top:10vh;
 
 }
 
@@ -181,7 +182,7 @@ img.sun{
 
 
 .s4>p{
-	position:absolute;top:380vh; left:5vw;
+	position:absolute;top:390vh; left:5vw;
 	padding:50px 50px ;
 	text-align: justify;
 }
@@ -196,7 +197,7 @@ footer{
 	font-family:hind;
 	padding:2px 50px 2px 50px;
     margin: 50px 0;
-	position:absolute; top:700vh;
+	position:absolute; top:600vh;
 }
 
 
