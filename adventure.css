@@ -134,12 +134,12 @@ section>p {
 
 .img1{
 		width:35%;
-		position:absolute;top:30vh; left:13vw;
+		position:absolute;top:25vh; left:13vw;
 	}
 
 .img2{
 		width:35%;
-		position:absolute; top:30vh; left:51vw;
+		position:absolute; top:25vh; left:51vw;
 	}
 
 
@@ -162,7 +162,7 @@ section>p {
 .s3>div>img{
 	width:50%;
 	display:block;
-	position:absolute; top:160vh; 
+	position:absolute; top:150vh; 
 	margin-left:5vw;
 	margin-right:5vw;
 	
@@ -177,7 +177,7 @@ img.sun{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-    position:absolute;top:310vh;
+    position:absolute;top:300vh;
 }
 
 
