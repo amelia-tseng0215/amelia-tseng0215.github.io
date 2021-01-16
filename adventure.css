@@ -124,7 +124,6 @@ section>p {
 	font-size:3vh;
 	text-align: justify;
 	margin: 0px 130px;
-	margin-top:10vh;
 
 }
 
@@ -134,12 +133,12 @@ section>p {
 
 .img1{
 		width:35%;
-		position:absolute;top:25vh; left:13vw;
+		position:absolute;top:30vh; left:13vw;
 	}
 
 .img2{
 		width:35%;
-		position:absolute; top:25vh; left:51vw;
+		position:absolute; top:30vh; left:51vw;
 	}
 
 
@@ -162,7 +161,7 @@ section>p {
 .s3>div>img{
 	width:50%;
 	display:block;
-	position:absolute; top:150vh; 
+	position:absolute; top:160vh; 
 	margin-left:5vw;
 	margin-right:5vw;
 	
@@ -177,12 +176,12 @@ img.sun{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-    position:absolute;top:300vh;
+    position:absolute;top:310vh;
 }
 
 
 .s4>p{
-	position:absolute;top:390vh; left:5vw;
+	position:absolute;top:380vh; left:5vw;
 	padding:50px 50px ;
 	text-align: justify;
 }
@@ -197,7 +196,7 @@ footer{
 	font-family:hind;
 	padding:2px 50px 2px 50px;
     margin: 50px 0;
-	position:absolute; top:600vh;
+	position:absolute; top:580vh;
 }
 
 
