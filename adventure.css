@@ -161,7 +161,7 @@ section>p {
 .s3>div>img{
 	width:50%;
 	display:block;
-	position:absolute; top:160vh; 
+	position:absolute; top:150vh; 
 	margin-left:5vw;
 	margin-right:5vw;
 	
@@ -176,12 +176,12 @@ img.sun{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-    position:absolute;top:310vh;
+    position:absolute;top:300vh;
 }
 
 
 .s4>p{
-	position:absolute;top:380vh; left:5vw;
+	position:absolute;top:360vh; left:5vw;
 	padding:50px 50px ;
 	text-align: justify;
 }
