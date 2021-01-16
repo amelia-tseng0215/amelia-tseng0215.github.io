@@ -154,7 +154,7 @@ section>p {
 
 
 .s3>p{
-	margin-top:100vh;
+	margin-top:105vh;
 }
 
 
@@ -172,7 +172,7 @@ section>p {
 img.sun{
 	width:60%;
 	display:block;
-	margin:1vh 2vw 1vh 2vw;
+	margin:0 2vw 2vh 2vw;
     position:absolute;top:310vh;
 }
 
